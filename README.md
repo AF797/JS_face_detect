@@ -26,11 +26,11 @@ JavaScript를 이용한 얼굴 인식을 구현하여보았다.
 
 ## 구현 과정
 
-![2342.JPG](JavaScript%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%8B%E1%85%A5%E1%86%AF%E1%84%80%E1%85%AE%E1%86%AF%20%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%89%E1%85%B5%E1%86%A8%20afdf20df290942f3853fc39c1a92d2d7/2342.jpg)
+![1](https://user-images.githubusercontent.com/86837707/202146102-c6595e69-3027-45cd-b294-2b5761ed9e3b.jpg)
 
 위에서 첨부한 GitHub 주소에서 파일을 다운 받은 후 위 사진처럼 Min, Hyunjin Seo 폴더를 생성하여 주고, 각 폴더에 1.jpg, 2.jpg로 2장의 사진을 넣어준다. 이유는 아래 사진의 코드를 읽어보면 된다.
 
-![423234.JPG](JavaScript%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%8B%E1%85%A5%E1%86%AF%E1%84%80%E1%85%AE%E1%86%AF%20%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%89%E1%85%B5%E1%86%A8%20afdf20df290942f3853fc39c1a92d2d7/423234.jpg)
+![2](https://user-images.githubusercontent.com/86837707/202145989-ce48bded-e136-471d-b4db-521817a615cd.jpg)
 
 위 사진에 코드
 
@@ -42,8 +42,8 @@ const labels = [~,~]에 Min과 Hyunjin Seo를 추가하여 준다.
 
 ## 구현 결과
 
-![1212.PNG](JavaScript%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%8B%E1%85%A5%E1%86%AF%E1%84%80%E1%85%AE%E1%86%AF%20%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%89%E1%85%B5%E1%86%A8%20afdf20df290942f3853fc39c1a92d2d7/1212.png)
+![3](https://user-images.githubusercontent.com/86837707/202145993-bed8ee7e-71c4-41e0-8891-8a0f59520c0d.png)
 
-![2341122.JPG](JavaScript%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%8B%E1%85%A5%E1%86%AF%E1%84%80%E1%85%AE%E1%86%AF%20%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%89%E1%85%B5%E1%86%A8%20afdf20df290942f3853fc39c1a92d2d7/2341122.jpg)
+![4](https://user-images.githubusercontent.com/86837707/202146010-350be058-f90e-4757-ac77-b3485718f9a1.jpg)
 
 정상적으로 구현이 잘 되는 것을 확인할 수 있다.
