@@ -42,7 +42,7 @@ const labels = [~,~]에 Min과 Hyunjin Seo를 추가하여 준다.
 
 ## 구현 결과
 
-![3](https://user-images.githubusercontent.com/86837707/202145993-bed8ee7e-71c4-41e0-8891-8a0f59520c0d.png)
+![3](https://user-images.githubusercontent.com/86837707/202146980-943980f8-faff-45d3-a034-4f75fdc3f2cd.png)
 
 ![4](https://user-images.githubusercontent.com/86837707/202146010-350be058-f90e-4757-ac77-b3485718f9a1.jpg)
 
