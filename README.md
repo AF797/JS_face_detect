@@ -10,6 +10,7 @@ JavaScript를 이용한 얼굴 인식을 구현하여보았다.
 
 확장으로 Live Server를 사용하였다.
 
+<iframe width="500" height="300" src="https://www.youtube.com/watch?v=AZ4PdALMqx0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [https://www.youtube.com/watch?v=AZ4PdALMqx](https://www.youtube.com/watch?v=AZ4PdALMqx0)
 
 [https://www.youtube.com/watch?v=AZ4PdALMqx0](https://www.youtube.com/watch?v=AZ4PdALMqx0)
