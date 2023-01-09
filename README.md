@@ -40,8 +40,6 @@ const labels = [~,~]에 Min과 Hyunjin Seo를 추가하여 준다.
 
 ## 구현 결과
 
-![3](https://user-images.githubusercontent.com/86837707/202147348-64d9f3ef-6c5f-4b17-8f1c-e134eeacb9fa.png)
-
 ![4](https://user-images.githubusercontent.com/86837707/202146010-350be058-f90e-4757-ac77-b3485718f9a1.jpg)
 
 정상적으로 구현이 잘 되는 것을 확인할 수 있다.
